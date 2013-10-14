@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'sinatra'
+gem 'json'
+gem 'trixter', '>= 1.0.1'
+gem 'serialport'
