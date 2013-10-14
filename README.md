@@ -19,6 +19,13 @@ ruby init.rb
 
 Note: You need to plug in your XDream before starting the UI.
 
+## Screenshot
+
+Yeah, it's pretty much obligatory. Theme credits go to Alex Vanderzon
+(https://creativemarket.com/alex_vanderzon/1754-Creative-Portfolio-HTMLCSS)
+
+![Screenshot](https://github.com/tommetge/trixter-web/raw/master/public/assets/img/screenshot.png "Screenshot")
+
 ## Feedback
 
 If you have any ideas, suggestions, or find some squishy bugs, give
